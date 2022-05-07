@@ -27,6 +27,7 @@ html, .CodeMirror {
 html.dark {
   background: black;
 }
+
 .dark #editor > .CodeMirror {
   filter: invert(1);
 } 

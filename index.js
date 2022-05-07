@@ -31,7 +31,7 @@ const START_CURSOR = JSON.parse(
 const DEFAULT_CONFIG = () => ({
   schema: null,
   font: 'Fira Code Retina',
-  size: '14',
+  size: '28',
 })
 const DEFAULT_VALUE = `
    rhein.
