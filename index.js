@@ -271,7 +271,7 @@ readConfigs()
 
 if ('serviceWorker' in navigator) {
   navigator.serviceWorker
-      .register('/pwa-examples/a2hs/sw.js')
+      .register('/sw.js')
       .then(() => { console.log('Service Worker Registered'); });
 }
 
